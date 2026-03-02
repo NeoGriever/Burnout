@@ -1,0 +1,24 @@
+[
+    {
+        "Author": "Valenth Siveria",
+        "Name": "Avoid a burnout by using Burnout",
+        "Punchline": "",
+        "Description": "/burnout - opens the burnout calendar",
+        "InternalName": "Burnout",
+        "Tags": ["Helper", "Calendar"],
+        "AssemblyVersion": "1.0.0.0",
+        "TestingAssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/NeoGriever/Burnout",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 14,
+        "TestingDalamudApiLevel": 14,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 10,
+        "LastUpdate": 1772494183,
+        "IconUrl": "https://raw.githubusercontent.com/NeoGriever/Burnout/main/plugins/Burnout/icon.png",
+        "DownloadLinkInstall": "https://github.com/NeoGriever/Burnout/raw/main/plugins/Burnout/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/NeoGriever/Burnout/raw/main/plugins/Burnout/latest.zip",
+        "DownloadLinkTesting": "https://github.com/NeoGriever/Burnout/raw/main/plugins/Burnout/latest.zip"
+    }
+]
