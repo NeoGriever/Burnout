@@ -4,9 +4,9 @@
   "Punchline": "A visual weekly work schedule planner for FFXIV.",
   "Description": "/burnout - opens the weekly schedule planner",
   "InternalName": "Burnout",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.0.0.1",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 15,
   "Tags": ["Schedule", "Planning", "Planner"],
-  "Changelog": "v1.0.0.0:\n- Initial release"
+  "Changelog": "v1.0.0.1:\n- Maintenance release"
 }
